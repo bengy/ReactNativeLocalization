@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/stefalda/ReactNativeLocalization/issues"
   },
-  "homepage": "https://github.com/stefalda/ReactNativeLocalization"
+  "homepage": "https://github.com/stefalda/ReactNativeLocalization",
+  "dependencies": {
+    "react-native-localization": "https://github.com/bengy/ReactNativeLocalization"
+  }
 }
